@@ -10,8 +10,8 @@ nombre:"",
 imagen:"",
 stock:0,
 precio:0,
-url:'http://localhost:5000/productos/'+id,
-//url:'http://mcerda.pythonanywhere.com/productos/'+id,
+//url:'http://localhost:5000/productos/'+id,
+url:'http://Grupo15.pythonanywhere.com/productos/'+id,
 }
 },
 methods: {

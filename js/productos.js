@@ -19,6 +19,7 @@ precio:0,
 },
 methods: {
 fetchData(url) {
+    
 fetch(url)
 .then(response => response.json())
 .then(data => {
