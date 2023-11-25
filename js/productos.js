@@ -3,7 +3,8 @@ createApp({
 data() {
 return {
 productos:[],
-url:'http://localhost:5000/productos',
+url:'http://grupo15.pythonanywhere.com/productos',
+//url:'http://localhost:5000/productos',
 // si el backend esta corriendo local usar localhost 5000(si no lo subieron a pythonanywhere)
 //url:'http://mcerda.pythonanywhere.com/productos', // si ya lo subieron a pythonanywhere
 error:false,
